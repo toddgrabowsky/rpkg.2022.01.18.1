@@ -4,6 +4,8 @@
 # rpkg.2022.01.18.1
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/toddgrabowsky/rpkg.2022.01.18.1/workflows/R-CMD-check/badge.svg)](https://github.com/toddgrabowsky/rpkg.2022.01.18.1/actions)
 <!-- badges: end -->
 
 The goal of rpkg.2022.01.18.1 is to …
